@@ -1,7 +1,3 @@
-It looks like there's no existing README file in the repository. I can help you create one. Here is a draft for your README:
-
----
-
 # Appium Gestures Tests
 
 This repository contains tests for basic gestures manipulations using Appium on an Android app. The tests cover various gestures such as Drag and Drop, Scroll, SeekBar, Swipe, and Zoom.
